@@ -2,7 +2,7 @@
   <img src="https://wallpaperscave.com/images/original/18/04-25/anime-one-punch-man-44886.jpg">
 </p>
 
-# Saitama Robot
+# Sanjeet Robot
 
 <p align="center">
 - x -|│  “	Just some code who is a bot for fun! ”  │| - x -
